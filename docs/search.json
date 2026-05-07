@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in my Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "World Happiness Report",
+    "section": "",
+    "text": "The world happiness report is an annual report on the world’s wellbeing and how to improve it. With data from over 140 countries. This report aims to further analyse the data from 2019 to 2025."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "World Happiness Report",
+    "section": "",
+    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 7, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWorld Happiness Report\n\n\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 5, 2026\n\n\nAbraham Chan\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nReports\n\n\n\n\n\n\n\n\n\nMay 5, 2026\n\n\nAbraham Chan\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 4, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "mywebsite/index.html",
+    "href": "mywebsite/index.html",
+    "title": "mywebsite",
+    "section": "",
+    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 7, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 4, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "mywebsite/posts/post-with-code/index.html",
+    "href": "mywebsite/posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "mywebsite/posts/welcome/index.html",
+    "href": "mywebsite/posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "mywebsite/about.html",
+    "href": "mywebsite/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  }
+]

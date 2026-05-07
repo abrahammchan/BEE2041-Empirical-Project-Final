@@ -1,0 +1,10 @@
+---
+title: "World Happiness Report"
+author: "Abraham Chan"
+date: "2026-05-05"
+categories: [code, analysis]
+image: "image.jpg"
+---
+
+The world happiness report is an annual report on the world's wellbeing and how to improve it. With data from over 140 countries. This report aims to further analyse the data from 2019 to 2025.
+

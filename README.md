@@ -41,15 +41,19 @@ Quarto (version: 1.9.37, mac OS)
 ---
 
 ## Creating Website (through Quarto on terminal)
-Quarto create project blog 'myblog'
-Quarto preview myblog (opens internally)
-Manually edited _quarto.yml file, underneath type: website, change the output directories (output-dir: docs)
-Nanually upload quarto created folder 'myblog'
-Drag _sites / docs out of my blog into main.
-(Optional) delete myblog folder as unnecessary to run the website through github pages
-Go to settings on github --> Pages --> Build and Deployment choose main and /docs and the website should run through github pages
+- 1. Quarto create project blog 'myblog'
+- 2. Quarto preview myblog (opens internally)
+- 3. Manually edited _quarto.yml file, underneath type: website, change the output directories (output-dir: docs)
+- 4. Manually upload quarto created folder 'myblog'
+- 5. Drag _sites / docs out of my blog into main.
+- 6. (Optional) delete myblog folder as unnecessary to run the website through github pages
+- 7. Go to settings on github --> Pages --> Build and Deployment choose main and /docs and the website should run through github pages
 
 ---
 
-## Creating the Python Tables and Figures (
-T
+## Creating the Python Tables and Figures (through jupyter notebook and terminal)
+- 1. Download data from kaggle(https://www.kaggle.com/datasets/elvisbui/world-happiness-report-2005-2025-panel/data)
+  2. Make directory (mkdir <name>)
+  3. Move the csv file (after opening the downloaded zip file) into the new directory (can drag the data manually or use mv through terminal)
+  4. Change directory 
+

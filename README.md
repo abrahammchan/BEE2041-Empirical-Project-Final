@@ -27,14 +27,7 @@ The dataset ('world_happiness_report_2005_2025.csv') comes from the annual repor
 
 ## Repository Structure
 
-├── README.md
-├── Makefile
-├── immigrationHeterogeneity.tex       # Main LaTeX write-up
-├── refs.bib                           # Bibliography
-├── data/
-│   └── Oreopoulos2011skilled.dta      # Raw data (not tracked — obtain separately)
-├── source/
-│   └── immigrantEffects.py            # Main analysis script
-└── results/
-    ├── figures/                       # All generated figures (.pdf)
-    └── tables/                        # All generated tables (.tex)
+Final Project Data and Code: Original csv file of the World Happiness Report (downloaded from kaggle) and python code used to clean, sort and arrange data
+docs: github pages runs website through these files
+README.md
+

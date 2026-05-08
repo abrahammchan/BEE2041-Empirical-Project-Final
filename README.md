@@ -30,4 +30,26 @@ The dataset ('world_happiness_report_2005_2025.csv') comes from the annual repor
 Final Project Data and Code: Original csv file of the World Happiness Report (downloaded from kaggle) and python code used to clean, sort and arrange data
 docs: github pages runs website through these files
 README.md
+Website Link: url for the website output
 
+--- 
+
+## Requirements 
+Jupyter Notebook (to run python locally
+Quarto (version: 1.9.37, mac OS)
+
+---
+
+## Creating Website (through Quarto on terminal)
+Quarto create project blog 'myblog'
+Quarto preview myblog (opens internally)
+Manually edited _quarto.yml file, underneath type: website, change the output directories (output-dir: docs)
+Nanually upload quarto created folder 'myblog'
+Drag _sites / docs out of my blog into main.
+(Optional) delete myblog folder as unnecessary to run the website through github pages
+Go to settings on github --> Pages --> Build and Deployment choose main and /docs and the website should run through github pages
+
+---
+
+## Creating the Python Tables and Figures (
+T

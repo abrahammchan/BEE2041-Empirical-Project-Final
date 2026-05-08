@@ -65,5 +65,5 @@ Quarto (version: 1.9.37, mac OS)
 ## Writing the Analysis on the Website
 - 1. Edited the index.html file in (post-with-code in posts in docs) through github
   2. Added text using <p>Example Text</p> and typed in between
-  3. Added python figures and tables as screenshots (as jpegs) by <p><img src="10HighestHappinessScore.jpg" class="img-fluid"></p> as an example
+  3. Added python figures and tables as screenshots (as jpegs) by <p><img src="something.jpg"class ="img-fluid" ></p> as an example (have to open readme.md code in order to see the command
 
